@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "NOVA",
+    "slug": "nova",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0F1226",
+    "android": {
+      "package": "com.nova.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.nova.app"
+    }
+  }
+}
